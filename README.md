@@ -1,8 +1,10 @@
-Agriculture_database_design
-Database design to track all agricultural activities and easily manageme them . In this project, we have designed a database management system to store information about the activities pertaining to the agricultural sector. The database will contain all the information related to farming which will be available to the admin/government and their officials to make schemes as per the status of the farmer and allot benefits as per his requirements.
+# Agriculture_database_design
 
-ER Diagram
-![image](https://github.com/user-attachments/assets/5188f9e9-a13a-40f7-b8af-6c8bf8bad9bf)
-Relational Schema
-![image](https://github.com/user-attachments/assets/48e2eb2c-f8c2-4c6f-a97e-0e7aae78bee7)
+The Agricultural Activities Database Management System is designed to track and manage information related to farming and agricultural practices. This system provides essential data for administrators, government officials, and policymakers to make informed decisions, create schemes, and allocate benefits effectively.
 
+# ER Diagram
+![alt text](https://github.com/user-attachments/assets/58b92b82-a58a-4036-a1a5-5fe0018c0fe8)
+
+
+# Relational Schema
+![alt text](https://github.com/user-attachments/assets/e89d664a-11ec-46ca-aa37-7dc674d68783)
